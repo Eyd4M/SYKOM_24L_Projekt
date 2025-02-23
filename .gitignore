@@ -1,0 +1,7 @@
+libgpioemu.a
+qemu-system-riscv32-sykt 
+Image
+rootfs.ext2
+fw_jump.elf
+compilation_log.txt
+kernel_module.ko
